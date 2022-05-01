@@ -1,13 +1,37 @@
-# 3D-Character
+# 06-3D-RPG
+Project 06 for MSCH-C220
 
-An animated 3D character that can be used in the 3D-RPG project
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+Simple 3D RPG Game for MSCH-C220
 
 ## Implementation
 
-Created in Blender 3.1.2 and Godot 3.4.2
+3rd Person Player
 
-## Created By
+Landscape to Walk on
 
-Jason Francis
+Flying Enemy Ship
+
+Targets
+
+Handheld Weapon
+
+## References
+
+https://ambientcg.com/view?id=Plastic010
+
+https://kenney.nl/assets/space-kit
+
+https://kenney.nl/assets/blaster-kit
+
+## Future Development
+
+None
+
+## Recommendations
+
+I would like for this project to be graded for a bonus on the Final Examination
+
+## Created by
+
+Tre'Vell Porter
+
